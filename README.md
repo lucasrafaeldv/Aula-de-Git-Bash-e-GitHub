@@ -44,10 +44,10 @@ Aplicar os conceitos aprendidos em aula utilizando o GitHub para organização e
 -----------------------------------------------------------------------------------------------------------------------------------
 ## 💻 Tecnologias Utilizadas
 
--Git
--GitHub
--Git Bash
--Markdown
+- Git
+- GitHub
+- Git Bash
+- Markdown
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Resumo Completo do Trabalho de Git, GitHub, Git Bash.
