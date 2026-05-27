@@ -49,6 +49,7 @@ Aplicar os conceitos aprendidos em aula utilizando o GitHub para organização e
 - Git Bash
 - Markdown
 ----------------------------------------------------------------------------------------------------------------------------------
+Link Abaixo: https://canva.link/8zdksfojp8focef
 
 Resumo Completo do Trabalho de Git, GitHub, Git Bash.
 
