@@ -9,7 +9,9 @@ Apresentação De Comandos Git e Serviços
 - Bianka Vieira
 - Camila Patrussi
 - Samuel Henrique
------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 ## 📝 Conteúdo Estudado
 Resumo dos principais conteúdos aprendidos:
 
